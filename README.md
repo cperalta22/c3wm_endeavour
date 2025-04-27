@@ -5,6 +5,7 @@
 **C**arlos presets for i**3wm** built ubove Endeavour OS i3wm presets.
 
 It is meant to be used to suit my taste and needs when it comes to an OS GUI, but is free for everyone to use.
+![2025-04-27_15-53](https://github.com/user-attachments/assets/38f6ad57-df05-4336-836d-b109309b1d0c)
 
 ## Before begin.
 
