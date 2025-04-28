@@ -16,8 +16,6 @@ yay -S \
   floorp-bin \
   candy-icons-git \
   dracula-gtk-theme-full \
-  ttf-ms-win11-auto \
-  ttf-vista-fonts \
   speech-dispatcher \
   bibata-cursor-theme \
   ranger \
