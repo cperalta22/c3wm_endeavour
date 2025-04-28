@@ -10,4 +10,4 @@ cp ./config.rasi /home/$USER/.config/rofi/config.rasi
 [ ! -d /home/$USER/.config/ranger ] && mkdir -p /home/$USER/.config/ranger
 cp ./rc.conf /home/$USER/.config/rc.conf
 cp ./Xresources /home/$USER/.Xresources
-cp -r ./gtk-?.0 ./tmp
+cp -r ./gtk-?.0 /home/$USER/.config
