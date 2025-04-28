@@ -17,7 +17,11 @@ There is absolutely no warranty that this configuration works in any other distr
 
 ## How it works.
 
-There are 3 scripts that you must **run as your regular user**, they will eventually ask for your password as they need to run with sudo priviledges. **Please any piece of code you get from the internet, before running it**
+There are 3 scripts that you must **run as your regular user**, do not use sudo. 
+
+They will eventually ask for your password as they need to execute some file placing or the installation commands with sudo priviledges. 
+
+These scrips are only calling `yay` , and `cp` files to their destinations, in addition script 03 also calls sometimes to `flatpak`. Still please check carefully what they do, and remember;   **Always check any piece of code you get from the internet, before running it**
 
 The scripts are numbered and must be executed sequentially.
 
