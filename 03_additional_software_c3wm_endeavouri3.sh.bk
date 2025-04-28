@@ -96,7 +96,8 @@ yay -S \
   texlive-fontsrecommended \
   texlive-fonts-fontawesome \
   texlive-latexextra \
-  texlive-fontutils
+  texlive-fontutils \
+  ttf-ms-win11-auto
 
 flatpak install \
   org.freefilesync.FreeFileSync
