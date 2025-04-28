@@ -15,6 +15,32 @@ I have incomplete versions for a similar environment specifically for Debian and
 
 There is absolutely no warranty that this configuration works in any other distro, including Arch or Manjaro.
 
+## What is different from Endeavour OS i3wm configuration
+
+There are many differences, but here is a list of what I think is more necessary to clarify:
+
+  - Navigation keys are `h` , `j` ,`k` and `l` (vim style) for left, up, down and right instead of the standard i3wm `j` , `k` ,`l` and `;`.
+  - The keybind for closing windows has now the standard bind included in vanilla i3wm; `Super` + `Shift` + `Q`.
+  - Workspaces are not longer bind to a certain applications.
+  - `rofi` launcher has the keybind `Super` + `Space`.
+  - `ranger` is included for a quick and light CLI based file manager, including images preview.
+  - `nitrogen` is used to set the wallpaper.
+  - `floorp` is the "official" browser of C3WM Endeavour edition, get it running with `Super` + `Shift` + `Enter`.
+  - `alacritty` is the "official" terminal emulator, call it with `Super` + `Enter`
+  - `flameshot` can be used to take improved screenshots with `Super` + `Shift` + `P`
+  - Keybind for `thunar` file manager is `Super`+`p`
+  - Status bar becomes minimal in size and presented information.
+  - Dracula + Candy visual theme, with Mononoki Nerd Font as default.
+  - A number of clickable functional system tray applets for Bluetooth, Network, Clipboard and Audio.
+
+
+## Installation
+
+  - Clone this repo and `cd` into it
+  - Run as regular user the script that starts with **01** and then the one that starts with **02**
+  - Optionally, check the script that start with **03** too see if you want to use it as it is, modify it or ignore it. Run it or not.
+  - Exit your i3wm session and enter again, or simply reboot.
+
 ## How it works.
 
 There are 3 scripts that you must **run as your regular user**, do not use sudo. 
