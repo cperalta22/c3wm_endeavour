@@ -2,7 +2,7 @@
 
 ## What is this?
 
-**C**arlos presets for i**3wm** built ubove Endeavour OS i3wm presets.
+**C**arlos presets for i**3wm** built on top Endeavour OS i3wm presets.
 
 It is meant to be used to suit my taste and needs when it comes to an OS GUI, but is free for everyone to use.
 ![2025-04-27_15-53](https://github.com/user-attachments/assets/38f6ad57-df05-4336-836d-b109309b1d0c)
@@ -17,7 +17,7 @@ There is absolutely no warranty that this configuration works in any other distr
 
 ## How it works.
 
-There are 3 scripts that you must run, they will eventually ask for your password as they need to run with sudo priviledges. **Please any piece of code you get from the internet, before running it**
+There are 3 scripts that you must **run as your regular user**, they will eventually ask for your password as they need to run with sudo priviledges. **Please any piece of code you get from the internet, before running it**
 
 The scripts are numbered and must be executed sequentially.
 
