@@ -97,6 +97,7 @@ yay -S \
   texlive-fonts-fontawesome \
   texlive-latexextra \
   texlive-fontutils \
+  texlive-xetex \
   ttf-ms-win11-auto
 
 flatpak install \
