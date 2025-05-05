@@ -313,9 +313,11 @@ exec --no-startup-id blueberry-tray
 exec --no-startup-id killall blueman-applet
 exec --no-startup-id xautolock -time 10 -locker blurlock
 #exec --no-startup-id xmodmap -e 'pointer = 3 2 1'
-###exec --no-startup-id /home/$USER/.screenlayout/radeon3monmix.sh
-###exec --no-startup-id openrgb --startminimized -p allwhite
+#exec --no-startup-id /home/$USER/.screenlayout/radeon3monmix.sh
+#exec --no-startup-id openrgb --startminimized -p allwhite
 #exec --no-startup-id easyeffects --gapplication-service
+#exec --no-startup-id /usr/bin/kdeconnectd
+#exec --no-startup-id /usr/bin/kdeconnect-indicator
 
 # Color palette used for the terminal ( ~/.Xresources file )
 # Colors are gathered based on the documentation:

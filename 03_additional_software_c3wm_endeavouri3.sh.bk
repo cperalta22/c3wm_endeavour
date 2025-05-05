@@ -98,7 +98,9 @@ yay -S \
   texlive-latexextra \
   texlive-fontutils \
   texlive-xetex \
-  ttf-ms-win11-auto
+  ttf-ms-win11-auto \
+  kdeconnect \
+  dolphin
 
 flatpak install \
   org.freefilesync.FreeFileSync

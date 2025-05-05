@@ -7,6 +7,7 @@ sed -i '/screenlayout/s/^/#/' ./i3config
 sed -i '/openrgb/s/^/#/' ./i3config
 sed -i '/tailscale/s/^/#/' ./i3config
 sed -i '/easyeffects/s/^/#/' ./i3config
+sed -i '/kdeconnect/s/^/#/' ./i3config
 cp /etc/i3status.conf ./i3status.conf
 cp /home/$USER/.config/rofi/rofidmenu.rasi ./rofidmenu.rasi
 cp /home/$USER/.config/rofi/config.rasi ./config.rasi
