@@ -24,7 +24,8 @@ yay -S \
   xfce4-appfinder \
   rpi-imager \
   lxappearance \
-  gnome-disk-utility
+  gnome-disk-utility \
+  gthumb
 
 # Additional System Monitors
 yay -S \
