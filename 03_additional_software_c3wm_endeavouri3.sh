@@ -17,7 +17,8 @@ yay -S \
   byobu \
   flatpak \
   tree \
-  ripgrep
+  ripgrep \
+  zsh
 
 # GUI Essential Utilities
 yay -S \
