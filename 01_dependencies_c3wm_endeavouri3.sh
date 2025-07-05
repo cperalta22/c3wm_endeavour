@@ -8,6 +8,7 @@ yay -S \
   alacritty \
   flameshot \
   ttf-mononoki-nerd \
+  ttf-iosevka-nerd \
   otf-font-awesome \
   pasystray \
   pa-applet-git \
