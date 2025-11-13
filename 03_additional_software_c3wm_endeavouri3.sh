@@ -65,23 +65,22 @@ yay -S \
   okular
 
 # Laptop Monitor Brightness Control
-yay -S \
-  brightnessctl
+#yay -S \
+#  brightnessctl
 
 # Gaming
-yay- S \
-  lutris \
-  steam-devices-git \
-  lib32-mesa
+#yay- S \
+#  lutris \
+#  steam-devices-git \
+#  lib32-mesa
 
-flatpak install \
-  com.valvesoftware.Steam
+#flatpak install \
+#  com.valvesoftware.Steam
 
 # Software you probably don't need
 yay -S \
   openrgb \
   zotero-bin \
-  filebrowser-bin \
   zsh-autosuggestions \
   tailscale \
   tailscale-systray-git \
@@ -102,7 +101,8 @@ yay -S \
   texlive-xetex \
   ttf-ms-win11-auto \
   kdeconnect \
-  dolphin
+  dolphin \
+  ttf-google
 
 flatpak install \
   org.freefilesync.FreeFileSync

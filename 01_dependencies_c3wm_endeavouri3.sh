@@ -16,7 +16,7 @@ yay -S \
   copyq \
   floorp-bin \
   candy-icons-git \
-  dracula-gtk-theme-full \ #DEPRECATED CHANGE SOON
+  dracula-gtk-theme-full \
   speech-dispatcher \
   bibata-cursor-theme \
   ranger \
